@@ -1,4 +1,4 @@
-# 👥 User Management System 🚀
+# 👥 User Management System 
 
 ## 📌 Overview
 A scalable User Management System built to handle user data, roles, and access control in a structured and efficient way. This application simulates real-world admin panel workflows, enabling administrators to manage users with full CRUD operations and role-based access.
