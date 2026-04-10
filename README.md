@@ -3,6 +3,15 @@
 ## 📌 Overview
 A scalable User Management System built to handle user data, roles, and access control in a structured and efficient way. This application simulates real-world admin panel workflows, enabling administrators to manage users with full CRUD operations and role-based access.
 
+![React](https://img.shields.io/badge/React-JS-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![UserManagement](https://img.shields.io/badge/User-Management-blue?style=for-the-badge)
+![Dashboard](https://img.shields.io/badge/Admin-Dashboard-green?style=for-the-badge)
+![CRUD](https://img.shields.io/badge/CRUD-Operations-orange?style=for-the-badge)
+![Roles](https://img.shields.io/badge/Role-Based-Access-purple?style=for-the-badge)
+![Authentication](https://img.shields.io/badge/Auth-System-red?style=for-the-badge)
+![Responsive](https://img.shields.io/badge/Responsive-Design-0A66C2?style=for-the-badge)
+
 ---
 
 ## 🛠️ Tech Stack
